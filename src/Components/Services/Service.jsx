@@ -4,7 +4,7 @@ import HeartEmoji from '../../img/heartemoji.png'
 import Glasses from '../../img/glasses.png'
 import Humble from '../../img/humble.png'
 import Card from "../Card/Card";
-import Resume from '../../Components/Services/LeTrungTan_CV_VI.pdf'
+import Resume from '../../Components/Services/LeTrungTan_CV_EN_FINAL.pdf'
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
 import { themeContext } from "../../Context";
 import { motion } from 'framer-motion'
