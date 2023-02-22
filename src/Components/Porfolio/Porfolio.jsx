@@ -1,10 +1,10 @@
 import React, { useContext } from "react";
 import './Porfolio.css'
 import { Swiper, SwiperSlide } from 'swiper/react';
-import Sidebar from '../../img/sidebar.png'
-import Ecommerce from '../../img/ecommerce.png'
-import HOC from '../../img/hoc.png'
-import MusicApp from '../../img/musicapp.png'
+import healthcare from '../../img/healthcare.png'
+import laptop from '../../img/laptop.png'
+import mancityslider from '../../img/mancityslider.png'
+import githubb from '../../img/githubb.png'
 import 'swiper/css';
 import FloatingDiv from "../FloatingDiv/FloatingDiv";
 import { themeContext } from "../../Context";
@@ -24,10 +24,10 @@ const Porfolio = () => {
                 grabCursor={true}
                 className='portfolio-slider'
             >
-                <SwiperSlide><img src={Sidebar} alt="" /></SwiperSlide>
-                <SwiperSlide><img src={Ecommerce} alt="" /></SwiperSlide>
-                <SwiperSlide><img src={HOC} alt="" /></SwiperSlide>
-                <SwiperSlide><img src={MusicApp} alt="" /></SwiperSlide>
+                <SwiperSlide><img src={healthcare} alt="" /></SwiperSlide>
+                <SwiperSlide><img src={laptop} alt="" /></SwiperSlide>
+                <SwiperSlide><img src={mancityslider} alt="" /></SwiperSlide>
+                <SwiperSlide><img src={githubb} alt="" /></SwiperSlide>
             </Swiper>
         </div>
     )

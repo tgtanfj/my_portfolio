@@ -21,9 +21,9 @@ const Services = () => {
                 <span style={{ color: darkMode ? 'white' : '' }}>My Awesome</span>
                 <span>services</span>
                 <span>
-                    fdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaffdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    Coding makes me feel quite excited, but sometimes also makes me feel backache and body aches 😛.
                     <br />
-                    fdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    But I still enjoy it.
                 </span>
                 <a href={Resume} download>
                     <button className="button s-button">Download CV</button>
@@ -38,8 +38,8 @@ const Services = () => {
                 className="cards">
                 <Card
                     emoji={HeartEmoji}
-                    heading={'Design'}
-                    detail={'Figma'}
+                    heading={'Front-end'}
+                    detail={'HTML, CSS(SCSS, Tailwind...), Javascript, React(Redux, Hooks...)'}
                 />
             </motion.div>
             <motion.div
@@ -50,8 +50,8 @@ const Services = () => {
                 className="cards">
                 <Card
                     emoji={Glasses}
-                    heading={'Developer'}
-                    detail={'HTML, CSS(SCSS, Tailwind...), Javascript, React(Redux, Hooks...)'}
+                    heading={'English'}
+                    detail={'I can read documents and communicate in basic English.'}
                 />
             </motion.div>
             <motion.div

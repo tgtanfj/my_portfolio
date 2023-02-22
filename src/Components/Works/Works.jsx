@@ -22,13 +22,13 @@ const Works = () => {
                 <span style={{ color: darkMode ? 'white' : '' }}>Works for All these</span>
                 <span>Brands & Clients</span>
                 <span>
-                    fdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaffdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    no pain no gain
                     <br />
-                    fdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    no pain no gain
                     <br />
-                    fdasssssssssaslkfdjaskfdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    no pain no gain
                     <br />
-                    fdasssssssssaslkfdjaskfdasssssssssaslkfdjasklfjldkajf;afsdfoi2wjfdaf
+                    no pain no gain
                 </span>
                 <button className="button s-button">Hire me</button>
                 <div className="blur s-blur1" style={{ background: '#ABF1FF94' }}></div>
