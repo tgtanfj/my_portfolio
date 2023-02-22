@@ -18,8 +18,8 @@ const Services = () => {
     return (
         <div className="services" id="Services">
             <div className="awesome">
-                <span style={{ color: darkMode ? 'white' : '' }}>My Awesome</span>
-                <span>services</span>
+                <span style={{ color: darkMode ? 'white' : '' }}>My</span>
+                <span>skills</span>
                 <span>
                     Coding makes me feel quite excited, but sometimes also makes me feel backache and body aches 😛.
                     <br />
